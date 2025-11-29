@@ -1,0 +1,101 @@
+ID;Titulo;Ruta_Archivo;Genero;Calificacion
+001;2 Be High;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\2 Be High.mp3;Techno;8
+002;141 Schneeschieber (Slowed Version);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\141 Schneeschieber (Slowed Version).mp3;Hardtekk;9
+003;Activision;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Activision.mp3;Hard Techno;7
+004;Blade;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Blade.mp3;Techno;8
+005;BLESSED MANE - Death Is No More;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\BLESSED MANE - Death Is No More.mp3;Phonk;9
+006;Brutalismus 3000 - 9mm (Official Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Brutalismus 3000 - 9mm (Official Video).mp3;Nu-Gabber;10
+007;Bungelgrave;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Bungelgrave.mp3;Hardstyle;7
+008;CLUB BIZARRE (SLOWED HARDTEKK);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\CLUB BIZARRE (SLOWED HARDTEKK).mp3;Hardtekk;8
+009;Coone - 4 BY 4 BEATS (I Don't Care) (Official Hardstyle Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Coone - 4 BY 4 BEATS (I Don't Care) (Official Hardstyle Video).mp3;Hardstyle;10
+010;DISCOFEVER;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\DISCOFEVER.mp3;Hard House;8
+011;Doomsday (Original Mix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Doomsday (Original Mix).mp3;Hardstyle;9
+012;Fata Morgana Techno;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Fata Morgana Techno.mp3;Techno;7
+013;Follow Me (Nobody Listens To Techno) (Anderex Remix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Follow Me (Nobody Listens To Techno) (Anderex Remix).mp3;Rawstyle;10
+014;GET THE FUCK OUT;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GET THE FUCK OUT.mp3;Hardcore;9
+015;gladde visstick;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\gladde visstick.mp3;Hard House;8
+016;GRANATA;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GRANATA.mp3;Hard Techno;9
+017;GRENADE KICK SZN;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GRENADE KICK SZN.mp3;Rawstyle;8
+018;Heroine;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Heroine.mp3;Hardtekk;7
+019;Hippie (Rework);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Hippie (Rework).mp3;Hard Techno;8
+020;Hou Vast;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Hou Vast.mp3;Hardstyle;9
+021;HOUSEGABBER;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\HOUSEGABBER.mp3;Gabber;10
+022;I AM CHAOS;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\I AM CHAOS.mp3;Hardcore;9
+023;KICK THE NATION;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\KICK THE NATION.mp3;Hardstyle;8
+024;Killshot & The Straikerz - Here We Go Again;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Killshot & The Straikerz - Here We Go Again.mp3;Rawstyle;9
+025;Kino Der Toten;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Kino Der Toten.mp3;Hard Techno;10
+026;Lekkere Boterham;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Lekkere Boterham.mp3;Hard House;7
+027;Like A Baka (Hard Techno Remix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Like A Baka (Hard Techno Remix).mp3;Hard Techno;8
+028;Luminite - Bass Criminal (Adjuzt Remix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Luminite - Bass Criminal (Adjuzt Remix).mp3;Rawstyle;9
+029;Mach Gabber aus;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Mach Gabber aus.mp3;Gabber;10
+030;MAKE ME WET;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\MAKE ME WET.mp3;Hard Techno;9
+031;Miguel Angeles Protection Charm (Slow & Hard Version);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Miguel Angeles Protection Charm (Slow & Hard Version).mp3;Hard Techno;8
+032;Mutilator - Psychedelics [Extended Mix];C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Mutilator - Psychedelics [Extended Mix].mp3;Rawstyle;10
+033;Oksel F;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Oksel F.mp3;Hard House;7
+034;RAVEGENERATOR;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\RAVEGENERATOR.mp3;Hard Techno;9
+035;Romantika;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Romantika.mp3;Hardstyle;8
+036;Samen Naar De Aldi (Offensief Remix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Samen Naar De Aldi (Offensief Remix).mp3;Uptempo;9
+037;Samson & Ket (Vieze Asbak Remix);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Samson & Ket (Vieze Asbak Remix).mp3;Hard Techno;10
+038;SHMONEY;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\SHMONEY.mp3;Phonk;7
+039;SLUSH ANTHEM;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\SLUSH ANTHEM.mp3;Hardstyle;10
+040;Smakker Techno;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Smakker Techno.mp3;Techno;8
+041;Sour Milk;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Sour Milk.mp3;Hard Techno;9
+042;STAB;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\STAB.mp3;Hard Techno;9
+043;The Last Airbender (VIP);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\The Last Airbender (VIP).mp3;Hardstyle;10
+044;Victory Techno;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Victory Techno.mp3;Techno;7
+045;VIEZE ASBAK & KRUELTY - BLOW IT UP | OFFICIAL VIDEOCLIP;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\VIEZE ASBAK & KRUELTY - BLOW IT UP | OFFICIAL VIDEOCLIP.mp3;Industrial Raw;10
+046;Vlinder Vos - Op Dreef;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Vlinder Vos - Op Dreef.mp3;Hardstyle;8
+047;Vlinderen;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Vlinderen.mp3;Hardstyle;8
+048;WAR;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\WAR.mp3;Rawstyle;9
+049;You Make Me Horny;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\You Make Me Horny.mp3;Hard Techno;9
+050;Zwitserse Jodel;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Zwitserse Jodel.mp3;Hardstyle;8
+051;Freddie Dredd - All Alone | (8D VERSION);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Freddie Dredd - All Alone | (8D VERSION).mp3;Phonk;7
+052;N.W.A. - Boys In The Hood;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\N.W.A. - Boys In The Hood.mp3;Hip Hop;8
+053;Alcolirykoz - El Despilfarro (Video oficial);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Alcolirykoz - El Despilfarro (Video oficial).mp3;Rap Colombiano;9
+054;HDMI;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\HDMI.mp3;Cloud Rap;6
+055;Kill Yourself (Part III);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Kill Yourself (Part III).mp3;Shadow Rap;7
+056;Really Slow Motion - Deadwood (Epic Dark Rock Action);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Really Slow Motion - Deadwood (Epic Dark Rock Action).mp3;Dark Rock;8
+057;XXXTENTACION - RIP Roach (Audio) (feat. $ki Mask The Slump God);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\XXXTENTACION - RIP Roach (Audio) (feat. $ki Mask The Slump God).mp3;Trap Metal;8
+058;Xavier Wulf - " Psycho Pass " (Music Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Xavier Wulf - " Psycho Pass " (Music Video).mp3;Cloud Rap;7
+059;GHOSTEMANE x PARV0 - I duckinf hatw you [Human Error EP];C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GHOSTEMANE x PARV0 - I duckinf hatw you [Human Error EP].mp3;Industrial Trap;8
+060;GHOSTEMANE - Mercury;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GHOSTEMANE - Mercury.mp3;Trap Metal;9
+061;Alcolirykoz - Rap, sexo y saxofón;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Alcolirykoz - Rap, sexo y saxofón.mp3;Rap Colombiano;9
+062;GHOSTEMANE - Squeeze;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GHOSTEMANE - Squeeze.mp3;Trap Metal;7
+063;GHOSTEMANE - VENOM;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GHOSTEMANE - VENOM.mp3;Trap Metal;8
+064;$UICIDEBOY$ - PARIS;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\$UICIDEBOY$ - PARIS.mp3;Shadow Rap;9
+065;Pouya & Ghostemane - 1000 Rounds [Music Video];C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Pouya & Ghostemane - 1000 Rounds [Music Video].mp3;Underground Rap;8
+066;Stay With Me;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Stay With Me.mp3;Alternative Hip Hop;6
+067;04. OmenXIII - LED (Produced By Grigoryan);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\04. OmenXIII - LED (Produced By Grigoryan).mp3;Dark Trap;7
+068;Blood Oceans (How Many? );C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Blood Oceans (How Many? ).mp3;Trap Metal;8
+069;GHOSTEMANE - Fed Up (AUDIO);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\GHOSTEMANE - Fed Up (AUDIO).mp3;Trap Metal;8
+070;System Of A Down - Soldier Side (Official Audio);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\System Of A Down - Soldier Side (Official Audio).mp3;Alternative Metal;9
+071;System of a Down - Lonely Day;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\System of a Down - Lonely Day.mp3;Alternative Metal;9
+072;She's Like Heroin;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\She's Like Heroin.mp3;Alternative Metal;8
+073;Vicinity Of Obscenity;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Vicinity Of Obscenity.mp3;Alternative Metal;7
+074;Tentative;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Tentative.mp3;Alternative Metal;8
+075;Stealing Society;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Stealing Society.mp3;Alternative Metal;8
+076;System Of A Down - Hypnotize - Hypnotize - HQ (2005) Lyrics;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\System Of A Down - Hypnotize - Hypnotize - HQ (2005) Lyrics.mp3;Alternative Metal;9
+077;Kill Rock 'n Roll;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Kill Rock 'n Roll.mp3;Alternative Metal;7
+078;Dreaming;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Dreaming.mp3;Alternative Metal;8
+079;Attack;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Attack.mp3;Alternative Metal;8
+080;Beware - Deftones;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Beware - Deftones.mp3;Nu Metal;9
+081;Root;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Root.mp3;Nu Metal;7
+082;Deftones - Back To School (Mini Maggot) HD;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Deftones - Back To School (Mini Maggot) HD.mp3;Nu Metal;8
+083;Rickets;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Rickets.mp3;Nu Metal;7
+084;Please Please Please Let Me Get What I Want (2005 Remaster);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Please Please Please Let Me Get What I Want (2005 Remaster).mp3;Alternative Rock;8
+085;Entombed;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Entombed.mp3;Shoegaze Metal;9
+086;Mascara;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Mascara.mp3;Nu Metal;8
+087;Deftones - Cherry Waves (Lyrics);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Deftones - Cherry Waves (Lyrics).mp3;Shoegaze Metal;9
+088;Deftones - My Own Summer (Shove It) / Lyrics;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Deftones - My Own Summer (Shove It) / Lyrics.mp3;Nu Metal;9
+089;Deftones - Change (In The House Of Flies);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Deftones - Change (In The House Of Flies).mp3;Nu Metal;9
+090;Rio Romeo - Nothing's New (Lyrics);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Rio Romeo - Nothing's New (Lyrics).mp3;Indie Pop;8
+091;Over & Over;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Over & Over.mp3;Alternative;7
+092;Absence - Rio Romeo (Official Lyrics);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Absence - Rio Romeo (Official Lyrics).mp3;Indie Pop;8
+093;Bet - Rio Romeo;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Bet - Rio Romeo.mp3;Indie Pop;7
+094;Billie Eilish - What Was I Made For ? (Official Music Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Billie Eilish - What Was I Made For ? (Official Music Video).mp3;Pop Ballad;9
+095;Billie Eilish - Happier Than Ever (Official Music Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Billie Eilish - Happier Than Ever (Official Music Video).mp3;Alternative Pop;9
+096;Billie Eilish - idontwannabeyouanymore (Official Audio);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Billie Eilish - idontwannabeyouanymore (Official Audio).mp3;Alternative R&B;8
+097;Billie Eilish - when the party's over;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Billie Eilish - when the party's over.mp3;Minimalist Pop;8
+098;Billie Eilish - THE GREATEST (Official Lyric Video);C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Billie Eilish - THE GREATEST (Official Lyric Video).mp3;Alternative Pop;9
+099;A Good Man with a Broken Heart;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\A Good Man with a Broken Heart.mp3;Pop Ballad;7
+100;Bones - Oxygen;C:\Users\manue\Downloads\Mix_Bright-main\Mix Bright-main\SimpleMP3\Bones - Oxygen.mp3;Cloud Rap;8

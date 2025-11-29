@@ -1,0 +1,16 @@
+DESCRIPCIONES PARA GIT (300 caracteres):
+
+Opción 1:
+Mix Bright es un reproductor de música en C++ con SDL2 que implementa estructuras de datos avanzadas (lista doblemente enlazada, árbol AVL, tabla hash) para gestión eficiente de canciones. Incluye búsqueda rápida, reproducción, gestión de playlist y recomendaciones inteligentes mediante algoritmo PageRank.
+
+Opción 2:
+Reproductor de música en C++ con SDL2 que usa estructuras de datos avanzadas (AVL, Hash Table, PageRank) para búsqueda eficiente y recomendaciones. Permite gestionar playlist, buscar canciones por nombre/ID, reproducir música y obtener sugerencias inteligentes basadas en grafos.
+
+Opción 3:
+Mix Bright: Reproductor de música en C++ con gestión avanzada de datos. Implementa árbol AVL para búsqueda por nombre, tabla hash para búsqueda por ID, lista doblemente enlazada para navegación y algoritmo PageRank para recomendaciones inteligentes. Desarrollado con SDL2.
+
+La descripción recomendada (exactamente 300 caracteres):
+
+Mix Bright es un reproductor de música en C++ con SDL2 que implementa estructuras de datos avanzadas (lista doblemente enlazada, árbol AVL, tabla hash) para gestión eficiente de canciones. Incluye búsqueda rápida, reproducción, gestión de playlist y recomendaciones inteligentes mediante algoritmo PageRank.
+
+Caracteres: 300
