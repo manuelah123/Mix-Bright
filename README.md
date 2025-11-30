@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/Idioma-English-blue.svg)](#mix-bright--advanced-c-music-player)
+[![es](https://img.shields.io/badge/Language-Spanish-yellow.svg)](#mix-bright--advanced-music-player-in-c)
 ![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
 ![SDL2](https://img.shields.io/badge/SDL2-2.0+-009900.svg?style=flat&logo=sdl)
 ![License](https://img.shields.io/github/license/manuelah123/Mix-Bright)
