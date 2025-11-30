@@ -60,7 +60,7 @@ Adaptación del algoritmo PageRank para un grafo de canciones, donde los nodos r
 4. **Reproducción**: Selecciona una canción para reproducir con SDL2.
 ---
  
-### **Configuraciòn para ejecutar el codigo.**
+### **Setup to run the code.**
 
 ###  **Rutas de Canciones (Obligatorio)**
 El programa carga canciones desde un archivo `playlist.txt`.  
