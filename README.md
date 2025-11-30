@@ -69,4 +69,4 @@ Por esto se debe editar las rutas de playlist.txt, las rutas de main.cpp y confi
 ---
 # Autora
 
-**Manuela Henao bedoya **
+Manuela Henao bedoya 
