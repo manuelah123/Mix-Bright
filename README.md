@@ -1,9 +1,3 @@
-[![es](https://img.shields.io/badge/Language-Spanish-yellow.svg)](#mix-bright--advanced-music-player-in-c)
-![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
-![SDL2](https://img.shields.io/badge/SDL2-2.0+-009900.svg?style=flat&logo=sdl)
-![License](https://img.shields.io/github/license/manuelah123/Mix-Bright)
-![Stars](https://img.shields.io/github/stars/manuelah123/Mix-Bright?style=social)
-
 # Mix Bright – Reproductor de Música Avanzado en C++
 
 **Mix Bright** es un reproductor de música en lenguaje **C++** que utiliza la librería **SDL2**. Implementa estructuras de datos avanzadas (lista doblemente enlazada, árbol AVL y tabla hash) para gestionar eficientemente la información de las canciones. Entre sus funcionalidades se encuentran imprimer canciones, reproducir canciones, reproducciòn aleatoria, busqueda de cancion por id, busqueda de cancion por nombre, insertar cancion, eliminar cancion y recomendaciones inteligentes basadas en el algoritmo PageRank.
@@ -70,3 +64,6 @@ Por esto se debe editar las rutas de playlist.txt, las rutas de main.cpp y confi
 # Autora
 
 Manuela Henao bedoya 
+
+# Licencia
+Este proyecto está bajo la licencia MIT.
